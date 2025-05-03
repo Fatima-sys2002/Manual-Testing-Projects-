@@ -1,2 +1,16 @@
-# Manual-Testing-Projects- 
-This repository contains Manual testing projects that includes well-documented Test Plan,Test scenarios,Test Cases with detailed test steps,expected results,actual results,priority and Bug reports for common web application functionalities such as Login,User Registration,My Account ,Password Reset and My Cart.  
+# Manual-Testing-Project # 01
+This repository contains manual test cases for the Login Module of VWO.com.The goal is to demonstrate core manual testing skills like writing test cases,checking functionality and reporting issues.
+INCLUDED :      50+ Test Cases
+                Test Plan ,Test  Scenarios,Test Steps,Test Data,Expected and Actual Result,Priority,Status
+                Bug Report for identified issues during testing.Each report contains : BUG ID 
+                                                                                       TITLE
+                                                                                       SEVERITY
+                                                                                       STEPS TO REPRODUCE
+                                                                                       EXPECTED VS ACTUAL RESULT
+                                                                                       STATUS
+                                                                                       
+
+
+                
+                
+                
